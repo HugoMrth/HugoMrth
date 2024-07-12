@@ -26,7 +26,7 @@ I'm not sharing much on LinkedIn, but I did set a profile :
 ### Languages:
 
 | R |
-|----------|----------|
+|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | 
 
 
