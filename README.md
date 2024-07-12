@@ -11,7 +11,7 @@ Sharing here some tools where I regrouped various functions I had to create thro
 
 I'm not sharing much on LinkedIn, but I did set a profile :
 
-[My LinkedIn]([https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/))
+[My LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/))
 
 
 
