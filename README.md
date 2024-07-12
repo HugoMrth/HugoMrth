@@ -1,34 +1,32 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-### About Me :    
+# About Me :    
 
 I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on by data bases in a public health research lab.
 
 Sharing here some tools where I regrouped various functions I had to create through my career, along with other personnal stuff.
        
    
-### LinkedIn: 📡  
+## LinkedIn: 📡  
 
 I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile :
 
 
 
-### Working on: 🚀
+## Working on: 🚀
 
 - Keep adding content to, and making the various R packages I'm developing up to standard
 - Some personnal R shiny apps
 
-## Languages and Tools 
+# Languages and Tools 
 <div>
 
-### Languages:
+## Languages:
 
 | R |
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | 
 
 
-### Frameworks :
+## Frameworks :
 
 MySQL | Plotly |
 |----------|----------|
@@ -40,6 +38,12 @@ MySQL | Plotly |
 
 ---
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+
+---
+
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=HugoMrth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -47,7 +51,6 @@ MySQL | Plotly |
 
 
 ---
-
 
 
 <p align="center">
