@@ -9,15 +9,13 @@ Sharing here some tools where I regrouped various functions I had to create thro
    
 ### LinkedIn: 📡  
 
-I'm not sharing much on LinkedIn, but I did set a profile :
-
-[My LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/))
+I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile :
 
 
 
 ### Working on: 🚀
 
-- Making the various R packages R developed up to standard
+- Keep adding content to, and making the various R packages I'm developing up to standard
 - Some personnal R shiny apps
 
 ## Languages and Tools 
