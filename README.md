@@ -34,7 +34,9 @@ MySQL | Plotly |
 
 
 
-</div>
+# Github Stats
+<div>
+
 
 ---
 
