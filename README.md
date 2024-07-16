@@ -11,10 +11,11 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 
 
-## Working on: 🚀
+## Working on / To do list : 🚀
 
-- Keep adding content to, and making the various R packages I'm developing up to standard
-- Some personnal R shiny apps
+#### 1. Add testthat to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+#### 2. Add vignettes to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+#### 3. Finish bookwoRm
 
 # Languages and Tools 
 <div>
