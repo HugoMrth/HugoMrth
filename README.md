@@ -16,7 +16,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 #### 1. Add testthat to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 #### 2. Add vignettes to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 #### 3. Finish bookwoRm
-#### 4. Add functions to packages : nna, nnonna
+#### 4. Add functions to packages : none on the list
 
 # Languages and Tools 
 <div>
