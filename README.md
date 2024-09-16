@@ -13,12 +13,14 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 ## Working on / To do list : 🚀
 
-#### 1. Add testthat to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
-#### 2. Add vignettes to packages (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
-#### 3. Finish bookwoRm : add a Quotations tab
-#### 4. Create hikeR
-#### 5. Create woRkout
-#### 6. Add functions to packages : none on the list
+### Packages
+#### a. Functions : none on the list
+#### b. testthat (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+#### c. Vignettes (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+### 2. Shiny Apps
+#### a. bookwoRm : add a Quotations tab
+#### b. hikeR : dashboard and browser
+#### c. woRkout : future project when the other two are done
 
 # Languages and Tools 
 <div>
