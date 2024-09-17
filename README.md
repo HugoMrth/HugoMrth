@@ -23,25 +23,15 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 #### c. woRkout : future project when the other two are done
 
 # Languages and Tools 
-<div>
 
-## Languages:
-
-| R |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | 
-
-
-## Other :
-
-| MySQL | Plotly | RStudio | Latex |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstd" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latx" width="55" height="55"/> | 
+| R | MySQL | Plotly | RStudio | Latex |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstd" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latx" width="55" height="55"/> |  
 
 
 
 # Github Stats
-<div>
+
 
 
 ---
@@ -53,13 +43,13 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 ---
 
   
-<!--- <p align="center">
+<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=HugoMrth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
 ---
-
+<!--- 
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=HugoMrth&show_icons=true&theme=vision-friendly-dark">
