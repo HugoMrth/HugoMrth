@@ -34,12 +34,9 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 
 
----
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-
+<!--- 
 ---
 
   
@@ -49,7 +46,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 
 ---
-<!--- 
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=HugoMrth&show_icons=true&theme=vision-friendly-dark">
