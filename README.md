@@ -17,6 +17,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 #### a. Functions : none on the list
 #### b. testthat (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 #### c. Vignettes (manageR, surveyscores, lazyMe)
+#### d. R package template
 ### 2. Shiny Apps
 #### a. bookwoRm : add a Quotations tab
 #### b. hikeR : dashboard and browser
