@@ -17,9 +17,8 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 #### a. Functions : none on the list
 #### b. testthat (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
-#### a. bookwoRm : add a Quotations tab
-#### b. hikeR : dashboard and browser
-#### c. woRkout : future project when the other two are done
+#### a. hikeR : dashboard and browser
+#### b. woRkout : future project when the other two are done
 
 # Languages and Tools 
 
