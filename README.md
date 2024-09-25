@@ -14,7 +14,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 ## Working on / To do list : 🚀
 
 ### 1. Packages
-#### a. Functions : none on the list
+#### a. Functions : negative value check in kappas
 #### b. testthat (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
 #### a. hikeR : dashboard and browser
