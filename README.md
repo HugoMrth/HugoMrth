@@ -15,7 +15,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 ### 1. Packages
 #### a. Functions : none on the list
-#### b. testthat (epiplus, manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+#### b. testthat (manageR, dataDesc, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
 #### a. hikeR : dashboard and browser
 #### b. woRkout : future project when the other two are done
