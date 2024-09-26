@@ -1,6 +1,6 @@
 # About Me :    
 
-I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on by data bases in a public health research lab.
+I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab.
 
 I'm mainly using R.
 
