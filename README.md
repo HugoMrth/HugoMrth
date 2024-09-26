@@ -20,7 +20,12 @@ Here is the list of all the R packages I've developed. They are all available he
 
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="55" height="55"/> |  |  |  |  |  |
+|  | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> |  |  |  |  |
+
+
+## Shiny Apps
+
+I've also developed R Shiny Dashboard both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR)
 
 
 ## To do list : 🚀
@@ -34,16 +39,8 @@ Here is the list of all the R packages I've developed. They are all available he
 #### b. woRkout : future project when the other two are done
 
 
-# Languages and Tools 
-
-| R | MySQL | Plotly | RStudio | Latex |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstd" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latx" width="55" height="55"/> |  
-
-
 
 # Github Stats
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
