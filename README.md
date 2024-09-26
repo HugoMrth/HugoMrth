@@ -2,6 +2,8 @@
 
 I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on by data bases in a public health research lab.
 
+I'm mainly using R.
+
 Sharing here some tools where I regrouped various functions I had to create through my career, along with other personnal stuff.
        
    
@@ -10,8 +12,16 @@ Sharing here some tools where I regrouped various functions I had to create thro
 I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile :
 
 
+# My Work
 
-## Working on / To do list : 🚀
+## Packages
+
+| dataDesc | epiplus | lazyMe | sampleSize | manageR | surveyscores |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/HugoMrth/epiplus/blob/master/inst/logo.png" title="epiplus"  alt="epiplus" width="55" height="55"/> |  |  |  |  |  |
+
+
+## To do list : 🚀
 
 ### 1. Packages
 #### a. Functions : none on the list
@@ -20,6 +30,7 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 ### 2. Shiny Apps
 #### a. hikeR : dashboard and browser
 #### b. woRkout : future project when the other two are done
+
 
 # Languages and Tools 
 
