@@ -18,9 +18,9 @@ I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b9
 
 Here is the list of all the R packages I've developed. They are all available here on my github.
 
-| dataDesc | epiplus | lazyMe | sampleSize | manageR | surveyscores |
+| [dataDesc](https://github.com/HugoMrth/dataDesc) | epiplus | lazyMe | sampleSize | manageR | surveyscores |
 |----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/HugoMrth/epiplus/blob/master/inst/logo.png" title="epiplus"  alt="epiplus" width="55" height="55"/> |  |  |  |  |  |
+|  <img src="https://github.com/HugoMrth/epiplus/inst/logo.png" title="epiplus"  alt="epiplus" width="55" height="55"/> |  |  |  |  |  |
 
 
 ## To do list : 🚀
