@@ -25,7 +25,7 @@ Here is the list of all the R packages I've developed. They are all available he
 
 ## Shiny Apps
 
-I've also developed R Shiny Dashboard both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR)
+I've also developed R Shiny Dashboard both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
 
 
 ## To do list : 🚀
