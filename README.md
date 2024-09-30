@@ -32,8 +32,8 @@ I've also developed R Shiny Dashboard both for my personal [readings](https://gi
 
 ### 1. Packages
 #### a. Functions : none on the list
-#### b. testthat (manageR, dataDesc, surveyscores, lazyMe, sampleSize)
-#### c. logos (manageR, dataDesc, surveyscores, lazyMe, sampleSize)
+#### b. testthat (manageR, surveyscores, lazyMe, sampleSize)
+#### c. logos (manageR, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
 #### a. hikeR : dashboard and browser
 #### b. woRkout : future project when the other two are done
