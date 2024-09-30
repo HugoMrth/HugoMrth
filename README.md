@@ -20,7 +20,7 @@ Here is the list of all the R packages I've developed. They are all available he
 
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
-|  | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> |  |  |  |  |
+| <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> |  |  |  |  |
 
 
 ## Shiny Apps
