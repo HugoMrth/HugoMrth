@@ -31,7 +31,7 @@ I've also developed R Shiny Dashboard both for my personal [readings](https://gi
 ## To do list : 🚀
 
 ### 1. Packages
-#### a. Functions : CI PPV/NPV (cf. Thurin 2021), Yule's Q, concordance in confusion metrics
+#### a. Functions : none on the list
 #### b. testthat (manageR, surveyscores, lazyMe, sampleSize)
 #### c. logos (manageR, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
