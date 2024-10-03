@@ -35,12 +35,12 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 # To do list : 🚀
 
 ## Packages
-### 1. Functions : add "<10" option in describeTidy
-### 2. testthat (manageR, surveyscores, lazyMe, sampleSize)
-### 3. logos (manageR, surveyscores, lazyMe, sampleSize)
+#### 1. Functions : add "<10" option in describeTidy
+#### 2. testthat (manageR, surveyscores, lazyMe, sampleSize)
+#### 3. logos (manageR, surveyscores, lazyMe, sampleSize)
 ## Shiny Apps
-### 1. hikeR : dashboard and browser
-### 2. woRkout : future project when the other two are done
+#### 1. hikeR : dashboard and browser
+#### 2. woRkout : future project when the other two are done
 
 
 
