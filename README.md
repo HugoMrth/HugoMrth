@@ -32,15 +32,15 @@ I've developed R Shiny Dashboards both for my personal [readings](https://github
 
 I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Projects](https://github.com/HugoMrth/RporjTemplate).
 
-## To do list : 🚀
+# To do list : 🚀
 
-### 1. Packages
-#### a. Functions : add "<10" option in describeTidy
-#### b. testthat (manageR, surveyscores, lazyMe, sampleSize)
-#### c. logos (manageR, surveyscores, lazyMe, sampleSize)
-### 2. Shiny Apps
-#### a. hikeR : dashboard and browser
-#### b. woRkout : future project when the other two are done
+## Packages
+### 1. Functions : add "<10" option in describeTidy
+### 2. testthat (manageR, surveyscores, lazyMe, sampleSize)
+### 3. logos (manageR, surveyscores, lazyMe, sampleSize)
+## Shiny Apps
+### 1. hikeR : dashboard and browser
+### 2. woRkout : future project when the other two are done
 
 
 
