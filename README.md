@@ -31,7 +31,7 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 ## To do list : 🚀
 
 ### 1. Packages
-#### a. Functions : none on the list
+#### a. Functions : add "<10" option in describeTidy
 #### b. testthat (manageR, surveyscores, lazyMe, sampleSize)
 #### c. logos (manageR, surveyscores, lazyMe, sampleSize)
 ### 2. Shiny Apps
