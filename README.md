@@ -6,9 +6,9 @@ I'm mainly using R and sharing here R packages regrouping various functions I ha
        
 ## LinkedIn: 📡  
 
-I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile :
+I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile.
 
-# My Work
+# My work here on GitHub
 
 ## Packages
 
