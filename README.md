@@ -26,7 +26,7 @@ I've developed R Shiny Dashboards both for my personal [readings](https://github
 
 ## Templates
 
-I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Project](https://github.com/HugoMrth/RporjTemplate).
+I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Projects](https://github.com/HugoMrth/RporjTemplate).
 
 ## To do list : 🚀
 
