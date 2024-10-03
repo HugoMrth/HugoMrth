@@ -2,9 +2,7 @@
 
 I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab.
 
-I'm mainly using R.
-
-Sharing here some tools where I regrouped various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
+I'm mainly using R and sharing here R packages regrouping various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
        
    
 ## LinkedIn: 📡  
