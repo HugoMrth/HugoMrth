@@ -4,11 +4,9 @@ I'm a biostatistician working in public health. I'm specialized in epidemiology 
 
 I'm mainly using R and sharing here R packages regrouping various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
        
-   
 ## LinkedIn: 📡  
 
 I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile :
-
 
 # My Work
 
@@ -28,7 +26,7 @@ I've developed R Shiny Dashboards both for my personal [readings](https://github
 
 ## Templates
 
-I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Project](https://github.com/HugoMrth/RporjTemplate)
+I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Project](https://github.com/HugoMrth/RporjTemplate).
 
 ## To do list : 🚀
 
