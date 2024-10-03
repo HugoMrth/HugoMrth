@@ -4,7 +4,7 @@ I'm a biostatistician working in public health. I'm specialized in epidemiology 
 
 I'm mainly using R.
 
-Sharing here some tools where I regrouped various functions I had to create through my career, along with other personnal stuff.
+Sharing here some tools where I regrouped various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
        
    
 ## LinkedIn: 📡  
@@ -25,10 +25,12 @@ Here is the list of all the R packages I've developed. They are all available he
 
 ## Shiny Apps
 
-I've also developed R Shiny Dashboard both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
+I've developed R Shiny Dashboards both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
 
-And (privately) storing some [personnal code](https://github.com/HugoMrth/my-code) along the way.
 
+## Templates
+
+I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Project](https://github.com/HugoMrth/RporjTemplate)
 
 ## To do list : 🚀
 
