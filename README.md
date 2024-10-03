@@ -3,8 +3,12 @@
 I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab.
 
 I'm mainly using R and sharing here R packages regrouping various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
+
+## CV :
+
+My [CV](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and a [list of my scientific publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) are on Github !
        
-## LinkedIn: 📡  
+## LinkedIn : 📡  
 
 I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile.
 
