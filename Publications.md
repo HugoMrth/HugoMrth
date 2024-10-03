@@ -7,7 +7,7 @@ A. Descatha, A. Leclerc, A. Singier, B. Evanoff, A. Mayet, D. Pourret, S. Fuente
  
 Hamouda, Refka & Estellon, Bertrand & Himet, Khalil & Cherif, Aimen & Marthinet, Hugo & Loreau, Jean-Marie & Texier, Gaëtan & Granjeaud, Samuel & Alméras, Lionel. (2024). [MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra](https://www.researchgate.net/publication/381248091_MSProfileR_An_Open-Source_Software_for_Quality_Control_of_Matrix-Assisted_Laser_Desorption_Ionization-Time_of_Flight_Spectra) Informatics
 
-# Conferene papers :   
+# Conference papers :   
 
 Chassery, Leïla & Marthinet, Hugo & Pellegrin, Liliane. (2023). 
 [Gestion de la crise Covid-19 : Analyse des liens entre les processus de résilience et de créativité mis en œuvre par 
