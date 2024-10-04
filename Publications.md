@@ -1,4 +1,4 @@
-<ol start=4>
+<ol reversed>
   <li>Line</li>
   <li>Line again</li>
 </ol>
