@@ -1,3 +1,9 @@
+<ol start=4>
+  <li>Line</li>
+  <li>Line again</li>
+</ol>
+
+
 # Articles :   
 
 Chêne, L., Morand, J. J., Badell, E., Toubiana, J., Janvier, F., Marthinet, H., Suppini, J. P., Valois, A., Texier, G., Brisse, S., & Dutasta, F., ŒDIPE Study Group (2024). [Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France](https://pubmed.ncbi.nlm.nih.gov/39324172/)
