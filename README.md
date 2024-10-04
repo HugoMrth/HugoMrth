@@ -35,8 +35,8 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 # To do list : 🚀
 
 ## Packages
-* Functions : add "<10" option in describeTidy
-* testthat (manageR, surveyscores, lazyMe, sampleSize)
+* Functions : create tidyDesc_lowFreq(), update and translate write.desc()
+* testthat scripts (manageR, surveyscores, lazyMe, sampleSize)
 * logos (manageR, surveyscores, lazyMe, sampleSize)
 ## Shiny Apps
 * hikeR : dashboard and browser
