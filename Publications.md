@@ -1,10 +1,7 @@
-<ol reversed>
-    <li>Apples</li>
-    <li>Bananas</li>
-    <li>Coconuts</li>
-    <li>Dragonfruit</li>
-    <li>Eggplants</li>
-</ol>
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
 
 
 # Articles :   
