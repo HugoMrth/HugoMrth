@@ -35,7 +35,7 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 # To do list : 🚀
 
 ## Packages
-* Functions : create tidyDesc_lowFreq(), update and translate write.desc()
+* Functions : tidyDesc() and write.desc() test files
 * testthat scripts (manageR, surveyscores, lazyMe, sampleSize)
 * logos (manageR, surveyscores, lazyMe, sampleSize)
 ## Shiny Apps
