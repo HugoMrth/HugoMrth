@@ -36,8 +36,8 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 
 ## Packages
 * Functions : ...
-* testthat scripts (manageR, surveyscores, lazyMe, sampleSize)
-* logos (manageR, surveyscores, lazyMe, sampleSize)
+* testthat scripts (manageR, surveyscores, sampleSize)
+* logos (manageR, surveyscores, sampleSize)
 ## Shiny Apps
 * hikeR : dashboard and browser
 * woRkout : future project when the other two are done
