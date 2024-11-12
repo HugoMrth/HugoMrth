@@ -20,7 +20,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> | <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> | <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> |  |  |
+| <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> | <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> | <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> |  | <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> |
 
 I've also created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project (cf. README for the associated publication).
 
@@ -36,8 +36,8 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 
 ## Packages
 * Functions : ...
-* testthat scripts (manageR, surveyscores, sampleSize)
-* logos (manageR, surveyscores)
+* testthat scripts (manageR, surveyscores)
+* logos (manageR)
 ## Shiny Apps
 * hikeR : dashboard and browser
 * woRkout : future project when the other two are done
