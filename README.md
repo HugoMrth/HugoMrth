@@ -37,7 +37,6 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 ## Packages
 * Functions : ...
 * testthat scripts (manageR)
-* logos (manageR)
 ## Shiny Apps
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
