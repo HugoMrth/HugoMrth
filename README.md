@@ -6,13 +6,19 @@ I'm mainly using R and sharing here R packages regrouping various functions I ha
 
 ## Curriculum Vitae :
 
-My [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) are on Github !
+Here are myy [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md).
        
 ## Socials : 📡  
 
-I'm not sharing much on [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/), but I did set a profile.
+Here is my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
 # My work here on Github
+
+## Work repos
+
+Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
+
+I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
 
 ## Packages
 
@@ -21,8 +27,6 @@ Here is the list of all the R packages I've developed as personnal projects :
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> | <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> | <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> | <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> | <img src="https://github.com/HugoMrth/manageR/blob/main/inst/logo.png" title="manageR"  alt="manageR" width="65" height="65"/> | <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> |
-
-I've also created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project (cf. README for the associated publication).
 
 ## Shiny Apps
 
@@ -35,7 +39,7 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 # To do list : 🚀
 
 ## Packages
-* Functions : ...
+* Functions : sankey plot add ins arg
 * testthat scripts (manageR)
 ## Shiny Apps
 * bookwoRm : minor touch-ups
