@@ -1,16 +1,8 @@
 # About Me :    
 
-I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab.
+I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab. I'm mainly using R and sharing here R packages regrouping various work functions I had to create over the years, along with some [personnal code](https://github.com/HugoMrth/my-code).
 
-I'm mainly using R and sharing here R packages regrouping various functions I had to create through my career, along with some [personnal code](https://github.com/HugoMrth/my-code).
-
-## Curriculum Vitae :
-
-Here are myy [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md).
-       
-## Socials : 📡  
-
-Here is my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
+You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
 # My work here on Github
 
