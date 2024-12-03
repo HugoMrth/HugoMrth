@@ -8,7 +8,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 # Sharing on Github
 
-### R Packages :package:
+### <ins>R Packages</ins> :package:
 
 Here is the list of all the R packages I've developed as personnal projects : 
 
