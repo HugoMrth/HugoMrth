@@ -2,7 +2,7 @@
 
 I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESearch on HealthcAre PErformance) : a public health research lab. I'm specialized in epidemiology and pharmacoepidemiolgy and currently working on the French National Health Data System (SNDS).
 
-I'm mainly using R and sharing here some R packages and other [personnal code](https://github.com/HugoMrth/my-code).
+I'm mainly using R and sharing here some R packages I've developped in my free time, and other [personnal code](https://github.com/HugoMrth/my-code).
 
 You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
@@ -18,7 +18,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 ### <ins>(Private) work repos</ins> :no_entry_sign:
 
-Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
+Currently working on my team [work repository](https://github.com/HugoMrth/Impulse-SDS) where we're sharing R and SAS code to ensure reproductibility.
 
 I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
 
