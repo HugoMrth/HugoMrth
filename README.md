@@ -16,17 +16,17 @@ Here is the list of all the R packages I've developed as personnal projects :
 |----------|----------|----------|----------|----------|----------|
 | <p align="center"> <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/manageR/blob/main/inst/logo.png" title="manageR"  alt="manageR" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> </p> |
 
-### (Private) work repos
+### <ins>(Private) work repos</ins> :no_entry_sign:
 
 Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
 
 I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
 
-### Shiny Apps :desktop_computer:
+### <ins>Shiny Apps</ins> :desktop_computer:
 
 I've developed R Shiny Dashboards both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
 
-### Templates :world_map:
+### <ins>Templates</ins> :world_map:
 
 I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Projects](https://github.com/HugoMrth/RporjTemplate).
 
@@ -35,10 +35,10 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 
 # To do list : 🚀
 
-## Packages
+### <ins>Packages</ins>
 * Functions : ...
 * testthat scripts : manageR pkg, getModelCoefs(), plotSankey()
-## Shiny Apps
+### <ins>Shiny Apps</ins>
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
 * woRkout : future project when the other two are done
