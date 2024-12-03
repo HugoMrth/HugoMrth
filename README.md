@@ -1,4 +1,4 @@
-# About Me :  	:technologist:
+# About Me :technologist:
 
 I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESearch on HealthcAre PErformance) : a public health research lab. I'm specialized in epidemiology and pharmacoepidemiolgy and currently working on the French National Health Data System (SNDS).
 
