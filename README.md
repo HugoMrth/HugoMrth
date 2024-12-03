@@ -32,7 +32,7 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 
 ## Packages
 * Functions : sankey plot add ins arg
-* testthat scripts (manageR)
+* testthat scripts : manageR pkg and getModelCoefs()
 ## Shiny Apps
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
