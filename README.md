@@ -1,18 +1,14 @@
-# About Me :    
+# About Me :  	:technologist:
 
-I'm a biostatistician working in public health. I'm specialized in epidemiology and pharmacoepidemiolgy, currently working on big data bases in a public health research lab. I'm mainly using R and sharing here R packages regrouping various work functions I had to create over the years, along with some [personnal code](https://github.com/HugoMrth/my-code).
+I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESearch on HealthcAre PErformance) : a public health research lab. I'm specialized in epidemiology and pharmacoepidemiolgy and currently working on the French National Health Data System (SNDS).
+
+I'm mainly using R and sharing here some R packages and other [personnal code](https://github.com/HugoMrth/my-code).
 
 You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
 # Sharing on Github
 
-## (Private) work repos
-
-Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
-
-I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
-
-## R Packages
+## R Packages :package:
 
 Here is the list of all the R packages I've developed as personnal projects : 
 
@@ -20,13 +16,22 @@ Here is the list of all the R packages I've developed as personnal projects :
 |----------|----------|----------|----------|----------|----------|
 | <p align="center"> <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/manageR/blob/main/inst/logo.png" title="manageR"  alt="manageR" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> </p> |
 
-## Shiny Apps
+## (Private) work repos
+
+Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
+
+I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
+
+## Shiny Apps :desktop_computer:
 
 I've developed R Shiny Dashboards both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
 
-## Templates
+## Templates :world_map:
 
 I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Projects](https://github.com/HugoMrth/RporjTemplate).
+
+
+
 
 # To do list : 🚀
 
@@ -40,8 +45,7 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 
 
 
-# Github Stats
-
+# Github Stats :chart:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
