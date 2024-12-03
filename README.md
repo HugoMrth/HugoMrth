@@ -31,8 +31,8 @@ I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplat
 # To do list : 🚀
 
 ## Packages
-* Functions : sankey plot add ins arg
-* testthat scripts : manageR pkg and getModelCoefs()
+* Functions : ...
+* testthat scripts : manageR pkg, getModelCoefs(), plotSankey()
 ## Shiny Apps
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
