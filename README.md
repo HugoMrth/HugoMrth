@@ -18,17 +18,19 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 ### <ins>(Private) work repos</ins> :no_entry_sign:
 
-Currently working on my team [work repository](https://github.com/HugoMrth/Impulse-SDS) where we're sharing R and SAS code to ensure reproductibility.
-
-I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
+* [Impulse](https://github.com/HugoMrth/Impulse-SDS) : My current team work repository where we're sharing R and SAS code to ensure reproductibility
+* [MSProfileR](https://github.com/HugoMrth/MSProfileR) : a R shiny App package I've created as part of my previous job
 
 ### <ins>Shiny Apps</ins> :desktop_computer:
 
-I've developed R Shiny Dashboards both for my personal [readings](https://github.com/HugoMrth/bookwoRm) and [hikes](https://github.com/HugoMrth/hikeR).
+* My [readings](https://github.com/HugoMrth/bookwoRm) 
+* My [hikes](https://github.com/HugoMrth/hikeR).
 
 ### <ins>Templates</ins> :world_map:
 
-I've created templates for [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate) and [R Projects](https://github.com/HugoMrth/RporjTemplate).
+ * [Shiny Apps](https://github.com/HugoMrth/shinyTemplate)
+ * [R Packages](https://github.com/HugoMrth/pkgTemplate) 
+ * [R Projects](https://github.com/HugoMrth/RporjTemplate)
 
 
 
