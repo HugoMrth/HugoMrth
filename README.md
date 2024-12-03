@@ -4,15 +4,15 @@ I'm a biostatistician working in public health. I'm specialized in epidemiology 
 
 You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
-# My work here on Github
+# Sharing on Github
 
-## Work repos
+## (Private) work repos
 
 Currently working in the [Impulse](https://github.com/HugoMrth/Impulse-SDS) team and we're maintaining a work repository to share our common R and SAS scripts.
 
 I've also previously created the [MSProfileR](https://github.com/HugoMrth/MSProfileR) Shiny App Package as a work project.
 
-## Packages
+## R Packages
 
 Here is the list of all the R packages I've developed as personnal projects : 
 
