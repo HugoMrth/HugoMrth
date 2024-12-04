@@ -39,7 +39,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 ### <ins>Packages</ins>
 * Functions : ...
-* testthat scripts : manageR pkg, getModelCoefs(), plotSankey()
+* testthat scripts : getModelCoefs(), plotSankey()
 ### <ins>Shiny Apps</ins>
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
