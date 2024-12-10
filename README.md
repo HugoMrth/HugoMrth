@@ -2,11 +2,15 @@
 
 I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESearch on HealthcAre PErformance) : a public health research lab. I'm specialized in epidemiology and pharmacoepidemiolgy and currently working on the French National Health Data System (SNDS).
 
-I'm mainly using R and sharing here some R packages I've developped in my free time, and other [personnal code](https://github.com/HugoMrth/my-code).
+I'm mainly using R and sharing here some R packages I've developped in my free time, and other personnal.
 
 You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
 # Sharing on Github
+
+### <ins>My code</ins> :computer:
+
+* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflow, graphs and R code memos
 
 ### <ins>R Packages</ins> :package:
 
