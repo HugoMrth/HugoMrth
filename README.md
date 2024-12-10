@@ -40,6 +40,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 ### <ins>Packages</ins>
 * Functions : ...
 * testthat scripts : getModelCoefs(), plotSankey()
+### <ins>Data Viz Portofolio</ins>
 ### <ins>Shiny Apps</ins>
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
