@@ -11,7 +11,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>My code</ins> :computer:
 
 * [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
-* [Data Vizualisation Portfolio](https://hugomrth.github.io/dataVizualisationPortfolio/) : Graphs gallery and the R code used to create them
+* [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : Graphs gallery and the R code used to create them
 
 ### <ins>R Packages</ins> :package:
 
