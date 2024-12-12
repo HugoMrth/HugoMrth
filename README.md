@@ -10,8 +10,8 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 ### <ins>My code</ins> :computer:
 
-* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflow and R functions memos
-* [Data Vizualisation Portfolio](https://hugomrth.github.io/dataVizualisationPortfolio/)
+* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
+* [Data Vizualisation Portfolio](https://hugomrth.github.io/dataVizualisationPortfolio/) : Graphs gallery and the R code used to create them
 
 ### <ins>R Packages</ins> :package:
 
@@ -24,12 +24,12 @@ Here is the list of all the R packages I've developed as personnal projects :
 ### <ins>(Private) work repos</ins> :no_entry_sign:
 
 * [Impulse](https://github.com/HugoMrth/Impulse-SDS) : my current team work repository where we're sharing R and SAS code to ensure reproductibility
-* [MSProfileR](https://github.com/HugoMrth/MSProfileR) : a R shiny App package I've created as part of my previous job
+* [MSProfileR](https://github.com/HugoMrth/MSProfileR) : R shiny App package I've created as part of my previous job
 
 ### <ins>Shiny Apps</ins> :desktop_computer:
 
-* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : a dashboard of the books I've read since 2022
-* [hikeR](https://github.com/HugoMrth/hikeR) : a dashboard of the hikes I've done since 2023
+* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : dashboard of the books I've read since 2022
+* [hikeR](https://github.com/HugoMrth/hikeR) : dashboard of the hikes I've done since 2023
 
 ### <ins>Templates</ins> :world_map:
 
