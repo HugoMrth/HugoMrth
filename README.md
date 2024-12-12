@@ -10,7 +10,8 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 ### <ins>My code</ins> :computer:
 
-* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflow, graphs and R code memos
+* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflow and R functions memos
+* [Data Vizualisation Portfolio](https://hugomrth.github.io/dataVizualisationPortfolio/)
 
 ### <ins>R Packages</ins> :package:
 
@@ -45,7 +46,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 * Functions : ...
 * testthat scripts : getModelCoefs(), plotSankey()
 ### <ins>Data Viz Portofolio</ins>
-* jitter boxplot, 2D & 3D scatterplot, OR plot, bodymap, France map, line plot, sunburst, pie charts
+* jitter boxplot, 2D & 3D scatterplot, OR plot, bodymap, France map, line plot, sunburst, pie charts, histo+boxplot
 ### <ins>Shiny Apps</ins>
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
