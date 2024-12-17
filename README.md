@@ -46,7 +46,7 @@ Here is the list of all the R packages I've developed as personnal projects :
 * Functions : ...
 * testthat scripts : getModelCoefs(), plotSankey()
 ### <ins>Data Viz Portofolio</ins>
-* 2D scatterplot, bodymap (organs), France map, sunburst, pie charts, histo+boxplot
+* 2D scatterplot, dendrogram, France map, sunburst, histo+boxplot
 ### <ins>Shiny Apps</ins>
 * bookwoRm : minor touch-ups
 * hikeR : dashboard and browser
