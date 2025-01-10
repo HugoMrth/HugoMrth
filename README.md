@@ -23,7 +23,8 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 ### <ins>(Private) work repos</ins> :no_entry_sign:
 
-* [Impulse](https://github.com/HugoMrth/Impulse-SDS) : my current team work repository where we're sharing R and SAS code to ensure reproductibility
+* [Impulse](https://github.com/HugoMrth/Impulse-SDS) : IMPULSE team work repository, sharing R and SAS code to ensure reproductibility
+* [My SNDS projects](https://github.com/HugoMrth/SNDS-Projects) : Scripts backup
 * [MSProfileR](https://github.com/HugoMrth/MSProfileR) : R shiny App package I've created as part of my previous job
 
 ### <ins>Shiny Apps</ins> :desktop_computer:
