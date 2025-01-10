@@ -2,7 +2,7 @@
 
 I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESearch on HealthcAre PErformance) : a public health research lab. I'm specialized in epidemiology and pharmacoepidemiolgy and currently working on the French National Health Data System (SNDS).
 
-I'm mainly using R and sharing here some R packages I've developped and other personnal code.
+I'm mainly using R and sharing here some R packages I've developped and other personnal codes.
 
 You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
@@ -11,11 +11,9 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>My code</ins> :computer:
 
 * [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
-* [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : Graphs gallery and the R code used to create them
+* [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery 
 
 ### <ins>R Packages</ins> :package:
-
-Here is the list of all the R packages I've developed as personnal projects : 
 
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
@@ -23,14 +21,14 @@ Here is the list of all the R packages I've developed as personnal projects :
 
 ### <ins>(Private) work repos</ins> :no_entry_sign:
 
-* [Impulse](https://github.com/HugoMrth/Impulse-SDS) : IMPULSE team work repository, sharing R and SAS code to ensure reproductibility
-* [My SNDS projects](https://github.com/HugoMrth/SNDS-Projects) : Scripts backup
-* [MSProfileR](https://github.com/HugoMrth/MSProfileR) : R shiny App package I've created as part of my previous job
+* [IMPULSE](https://github.com/HugoMrth/Impulse-SDS) team work repository
+* [SNDS projects](https://github.com/HugoMrth/SNDS-Projects) scripts backup
+* [MSProfileR](https://github.com/HugoMrth/MSProfileR) shiny app package 
 
 ### <ins>Shiny Apps</ins> :desktop_computer:
 
-* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : dashboard of the books I've read since 2022
-* [hikeR](https://github.com/HugoMrth/hikeR) : dashboard of the hikes I've done since 2023
+* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard
+* [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard
 
 ### <ins>Templates</ins> :world_map:
 
