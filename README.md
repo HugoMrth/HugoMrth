@@ -47,7 +47,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>Data Viz Portofolio</ins>
 * dendrogram, France map, histo+boxplot
 ### <ins>Shiny Apps</ins>
-* bookwoRm : minor touch-ups
+* bookwoRm : wordcloud ?
 * hikeR : dashboard and browser
 * woRkout : future project when the other two are done
 
