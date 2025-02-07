@@ -46,9 +46,10 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * testthat scripts : getModelCoefs(), plotSankey()
 ### <ins>Data Viz Portofolio</ins>
 * dendrogram, France map, histo+boxplot
+### <ins>Code Portofolio</ins>
+* Same as the data viz portfolio, but with R code
 ### <ins>Shiny Apps</ins>
 * bookwoRm : wordcloud ?
-* hikeR : dashboard and browser
 * woRkout : future project when the other two are done
 
 
