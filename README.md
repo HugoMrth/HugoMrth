@@ -49,8 +49,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>Code Portofolio</ins>
 * Same as the data viz portfolio, but with R code
 ### <ins>Shiny Apps</ins>
-* bookwoRm : wordcloud ?
-* woRkout : future project when the other two are done
+* woRkout : future project
 
 
 
