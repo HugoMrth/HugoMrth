@@ -4,7 +4,7 @@ I'm a biostatistician working at [RESHAPE](https://www.reshapelab.fr/fr) (RESear
 
 I'm mainly using R and sharing here some R packages I've developped and other personnal codes.
 
-You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
+You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV2.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) profile.
 
 # My repos
 
