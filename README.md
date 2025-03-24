@@ -41,13 +41,14 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 # To do list : 🚀
 
+### <ins>HTML file</ins>
+* Map : Any New Ideas
+* R Code Portfolio
 ### <ins>Packages</ins>
-* Functions : ...
+* Functions : euroscore()
 * testthat scripts : getModelCoefs(), plotSankey()
 ### <ins>Data Viz Portofolio</ins>
 * dendrogram, France map, histo+boxplot
-### <ins>Code Portofolio</ins>
-* Same as the data viz portfolio, but with R code
 ### <ins>Shiny Apps</ins>
 * woRkout : future project
 
