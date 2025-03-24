@@ -8,35 +8,35 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 # My repos
 
-### <ins>R code</ins> :computer:
+### :computer: <ins>R code</ins> 
 
-* [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
-* [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
-* [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools :spider_web:
-* [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates :world_map:
+* :clipboard: [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
+* :chart_with_upwards_trend: [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
+* :spider_web: [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools 
+* :world_map: [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates 
 
-### <ins>R Packages</ins> :package:
+### :package: <ins>R Packages</ins> 
 
 | [dataDesc](https://github.com/HugoMrth/dataDesc) | [epiplus](https://github.com/HugoMrth/epiplus) | [lazyMe](https://github.com/HugoMrth/lazyMe) | [sampleSize](https://github.com/HugoMrth/sampleSize) | [manageR](https://github.com/HugoMrth/manageR) | [surveyscores](https://github.com/HugoMrth/surveyscores) |
 |----------|----------|----------|----------|----------|----------|
 | <p align="center"> <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/manageR/blob/main/inst/logo.png" title="manageR"  alt="manageR" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> </p> |
 
-### <ins>(Private) work repos</ins> :no_entry_sign:
+### :no_entry_sign: <ins>(Private) work repos</ins> 
 
-* [IMPULSE](https://github.com/HugoMrth/Impulse-SDS) team work repository
-* [SNDS projects](https://github.com/HugoMrth/SNDS-Projects) scripts backup
-* [MSProfileR](https://github.com/HugoMrth/MSProfileR) shiny app package 
+* :pill: [IMPULSE](https://github.com/HugoMrth/Impulse-SDS) team work repository
+* :file_folder: [SNDS projects](https://github.com/HugoMrth/SNDS-Projects) scripts backup
+* :dna: [MSProfileR](https://github.com/HugoMrth/MSProfileR) shiny app package 
 
-### <ins>Shiny Apps</ins> :desktop_computer:
+### :desktop_computer: <ins>Shiny Apps</ins> 
 
-* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard :open_book:
-* [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard :hiking_boot:
-
-
+* :open_book: [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard 
+* :hiking_boot: [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard 
 
 
 
-# To do list : 🚀
+
+
+# 🚀 To do list : 
 
 ### <ins>HTML file</ins>
 * Map : Any New Ideas
