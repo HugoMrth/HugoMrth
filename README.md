@@ -12,7 +12,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 * [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
 * [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
-* [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools
+* [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools :spider_web:
 * [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates :world_map:
 
 ### <ins>R Packages</ins> :package:
@@ -29,8 +29,8 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 ### <ins>Shiny Apps</ins> :desktop_computer:
 
-* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard
-* [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard
+* [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard :open_book:
+* [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard :hiking_boot:
 
 
 
