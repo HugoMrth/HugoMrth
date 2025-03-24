@@ -8,7 +8,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 # My repos
 
-### :computer: <ins>R code</ins> 
+### :floppy_disk: <ins>R code</ins> 
 
 * :man_technologist: [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
 * :chart_with_upwards_trend: [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
@@ -36,7 +36,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 
 
-# 🚀 To do list : 
+# To do list : 
 
 ### <ins>HTML file</ins>
 * Map : Any New Ideas
