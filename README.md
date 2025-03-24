@@ -39,7 +39,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 # To do list : 
 
 ### <ins>HTML file</ins>
-* Map : alpha correction, IC methods, scoring, IPCW
+* Map : alpha correction, IC methods, scoring, IPCW, CART, normalisation, calage sur marge, standardisation (SIR, SMR), tests
 * R Code Portfolio
 * dataViz : * dendrogram, France map, histo+boxplot
 ### <ins>Packages</ins>
