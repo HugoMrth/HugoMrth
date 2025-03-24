@@ -13,6 +13,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
 * [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
 * [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools
+* [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates :world_map:
 
 ### <ins>R Packages</ins> :package:
 
@@ -31,11 +32,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard
 * [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard
 
-### <ins>Templates</ins> :world_map:
-
- * [Shiny Apps](https://github.com/HugoMrth/shinyTemplate)
- * [R Packages](https://github.com/HugoMrth/pkgTemplate) 
- * [R Projects](https://github.com/HugoMrth/RporjTemplate)
 
 
 
@@ -45,11 +41,10 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>HTML file</ins>
 * Map : Any New Ideas
 * R Code Portfolio
+* dataViz : * dendrogram, France map, histo+boxplot
 ### <ins>Packages</ins>
 * Functions : euroscore()
 * testthat scripts : getModelCoefs(), plotSankey()
-### <ins>Data Viz Portofolio</ins>
-* dendrogram, France map, histo+boxplot
 ### <ins>Shiny Apps</ins>
 * woRkout : future project
 
