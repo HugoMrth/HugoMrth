@@ -1,6 +1,6 @@
 # Articles
   
-  * Chêne L., Morand J. J., Badell E., Toubiana J., Janvier F., **Marthinet H.**, Suppini J. P., Valois A., Texier G., Brisse S., & Dutasta F., ŒDIPE Study Group (2024) [Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France](https://doi.org/10.1080/22221751.2024.2408324)
+  * Chêne L., Morand J. J., Badell E., Toubiana J., Janvier F., <ins>**Marthinet H.**</ins>, Suppini J. P., Valois A., Texier G., Brisse S., & Dutasta F., ŒDIPE Study Group (2024) [Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France](https://doi.org/10.1080/22221751.2024.2408324)
  Emerging microbes & infections, 13(1).
   * Hamouda R., Estellon B., Himet K., Cherif A., **Marthinet H.**, Loreau J. M., Texier G., Granjeaud S., & Alméras L. (2024) [MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra](https://doi.org/10.3390/informatics11020039) Informatics, 11(2), 39.
     
