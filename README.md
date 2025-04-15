@@ -43,7 +43,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * R Code Portfolio
 * dataViz : spaghettiplot, dendrogram, France map, histo+boxplot
 ### <ins>Packages</ins>
-* Functions : MRMI, APL, Fdep, MMCI & EK
+* Functions : APL, Fdep
 * testthat scripts : getModelCoefs(), plotSankey(), euroscore()
 ### <ins>Shiny Apps</ins>
 * woRkout : future project
