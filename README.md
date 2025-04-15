@@ -41,9 +41,9 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>HTML file</ins>
 * Map : 
 * R Code Portfolio
-* dataViz : * dendrogram, France map, histo+boxplot
+* dataViz : spaghettiplot, dendrogram, France map, histo+boxplot
 ### <ins>Packages</ins>
-* Functions : 
+* Functions : MRMI, APL, Fdep, MMCI & EK
 * testthat scripts : getModelCoefs(), plotSankey(), euroscore()
 ### <ins>Shiny Apps</ins>
 * woRkout : future project
