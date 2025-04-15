@@ -39,7 +39,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 # To do list : 
 
 ### <ins>HTML file</ins>
-* Map : 
+* Map : GPC
 * R Code Portfolio
 * dataViz : dendrogram, France map, histo+boxplot
 ### <ins>Packages</ins>
