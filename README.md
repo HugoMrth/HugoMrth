@@ -45,6 +45,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 ### <ins>Packages</ins>
 * Functions : APL, Fdep
 ### <ins>Shiny Apps</ins>
+* hikeR : total/year, tab massif
 * woRkout : future project
 
 
