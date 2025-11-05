@@ -1,7 +1,7 @@
 # Articles
-  * Sayer M., Dupouy A., <ins>**Marthinet H.**</ins> (2025) [Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures.](https://revuema.fr/articles/9570) Médecine et Armées
-  * Imfeld C., Daurat M., <ins>**Marthinet H.**</ins> (2025) [Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane](https://revuema.fr/articles/9261) Médecine et Armées
   * Baltazard et al. (2025) [Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study](https://www.researchgate.net/publication/390676748_Identifying_the_First_Lethal_Injury_in_Blunt_Polytrauma_Patients_Insights_from_a_French_Multicenter_Cohort_Study) Injury
+  *  Sayer M., Dupouy A., <ins>**Marthinet H.**</ins> (2025) [Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures.](https://revuema.fr/articles/9570) Médecine et Armées
+  * Imfeld C., Daurat M., <ins>**Marthinet H.**</ins> (2025) [Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane](https://revuema.fr/articles/9261) Médecine et Armées
   * Chêne et al. (2024) [Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France](https://doi.org/10.1080/22221751.2024.2408324)
  Emerging microbes & infections
   * Hamouda  et al. (2024) [MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra](https://doi.org/10.3390/informatics11020039) Informatics
