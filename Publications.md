@@ -1,10 +1,10 @@
 # Articles
-  * Baltazard et al. (2025) [Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study](https://www.researchgate.net/publication/390676748_Identifying_the_First_Lethal_Injury_in_Blunt_Polytrauma_Patients_Insights_from_a_French_Multicenter_Cohort_Study) Injury
-  *  Sayer M., Dupouy A., <ins>**Marthinet H.**</ins> (2025) [Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures.](https://revuema.fr/articles/9570) Médecine et Armées
-  * Imfeld C., Daurat M., <ins>**Marthinet H.**</ins> (2025) [Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane](https://revuema.fr/articles/9261) Médecine et Armées
-  * Chêne et al. (2024) [Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France](https://doi.org/10.1080/22221751.2024.2408324)
- Emerging microbes & infections
-  * Hamouda  et al. (2024) [MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra](https://doi.org/10.3390/informatics11020039) Informatics
+  * Baltazard, C. et al. (2025) <ins>**Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study.**</ins> Injury, 112878. https://doi.org/10.1016/j.injury.2025.112878
+  * Sayer, M., Dupouy, A., Marthinet, H. (2025). <ins>**Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures. Etude par questionnaire auprès de 82 médecins au cours de l’opération Barkhane.**</ins> Médecine et Armées Vol.51 No.3. https://doi.org/10.17184/eac.9570
+  * Imfeld, C., Daurat, M., Marthinet, H. (2025). <ins>**Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane.**</ins> Médecine et Armées Vol.51 No.1. https://doi.org/10.17184/eac.9261
+  * Chêne, L. et al. (2024). <ins>**Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France.**</ins> Emerging Microbes & Infections, 13(1). https://doi.org/10.1080/22221751.2024.2408324
+  * Ben Hamouda, R. et al. (2024). <ins>**MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra.**</ins> Informatics, 11(2), 39. [https://doi.org/10.3390/informatics11020039](https://doi.org/10.3390/informatics11020039)
+
 
 # Conference papers
   * Chassery L., <ins>**Marthinet H.**</ins>, Pellegrin L. (2023) [Gestion de la crise Covid-19 : Analyse des liens entre les processus de résilience et de créativité mis en œuvre par 
