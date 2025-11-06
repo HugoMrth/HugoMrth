@@ -7,8 +7,8 @@
     
 # Conference communications
 
-  * <ins>**Marthinet H.**</ins> et al. (2025) [Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019](https://2025ispe.eventscribe.net/fsPopup.asp?efp=Tk1LT0NQWksyNTAwMQ&PresenterID=2169855&rnd=3.115445E-02&mode=presenterinfo) 2025 ISPE Annual Meeting
-  * <ins>**Marthinet H.**</ins> et al. (2025) [Conséquences des pénuries de médicaments cardiovasculaires sur la prise en charge des patients atteints de maladie chronique en France entre 2014 et 2019](https://www.sciencedirect.com/science/article/pii/S2950433325000230) EMOIS 2025
+  * Marthinet H. et al. (2025) [Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019](https://2025ispe.eventscribe.net/fsPopup.asp?efp=Tk1LT0NQWksyNTAwMQ&PresenterID=2169855&rnd=3.115445E-02&mode=presenterinfo) 2025 ISPE Annual Meeting
+  * Marthinet H. et al. (2025) [Conséquences des pénuries de médicaments cardiovasculaires sur la prise en charge des patients atteints de maladie chronique en France entre 2014 et 2019](https://www.sciencedirect.com/science/article/pii/S2950433325000230) EMOIS 2025
 
 
 
