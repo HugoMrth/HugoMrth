@@ -31,10 +31,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * :open_book: [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard 
 * :hiking_boot: [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard 
 
-
-# Github Stats :chart:
-
-[trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!--- 
 ---
