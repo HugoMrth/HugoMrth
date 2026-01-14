@@ -32,23 +32,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 * :hiking_boot: [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard 
 
 
-
-
-
-# To do list : 
-
-### <ins>HTML file</ins>
-* Map : GPC
-* R Code Portfolio
-* dataViz : bubbles, dendrogram, France map, histo+boxplot
-### <ins>Packages</ins>
-* Functions : APL, Fdep
-### <ins>Shiny Apps</ins>
-* hikeR : total/year, tab massif
-* woRkout : future project
-
-
-
 # Github Stats :chart:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
