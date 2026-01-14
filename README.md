@@ -12,7 +12,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 * :man_technologist: [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
 * :chart_with_upwards_trend: [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
-* :spider_web: [Statistics Map](https://hugomrth.github.io/StatisticsMap/) : Mapping of Statistics Concepts and Tools 
 * :world_map: [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates 
 
 ### :package: <ins>R Packages</ins> 
