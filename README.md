@@ -34,7 +34,7 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 # Github Stats :chart:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
+[trophy](https://github-profile-trophy.vercel.app/?username=HugoMrth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!--- 
 ---
