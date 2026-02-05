@@ -1,4 +1,4 @@
-# Articles
+# Journal Articles
   * Baltazard C. et al. (2025) **_Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study._** Injury. 2025 Nov 4:112878. https://doi.org/10.1016/j.injury.2025.112878
   * Sayer M., Dupouy A., Marthinet H. (2025). **_Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures. Etude par questionnaire auprès de 82 médecins au cours de l’opération Barkhane._** Médecine et Armées Vol.51 No.3. https://doi.org/10.17184/eac.9570
   * Imfeld C., Daurat, M., Marthinet H. (2025). **_Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane._** Médecine et Armées Vol.51 No.1. https://doi.org/10.17184/eac.9261
