@@ -1,6 +1,6 @@
 # About Me 
 
-I'm a biostatistician working at [Epimentis]([https://www.reshapelab.fr/fr](https://epimentis.com/)). I'm specialized in epidemiology and pharmacoepidemiolgy and currently mainly working on the French National Health Data System (SNDS).
+I'm a biostatistician working at [Epimentis](https://epimentis.com/). I'm specialized in epidemiology and pharmacoepidemiolgy and currently mainly working on the French National Health Data System (SNDS).
 
 I've mainly used R during my carrier and sharing here some R packages I've developped and other personnal codes.
 
