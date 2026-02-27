@@ -4,7 +4,7 @@ I'm a biostatistician working at [Epimentis](https://epimentis.com/). I'm specia
 
 I've mainly used R during my carrier and sharing here some R packages I've developped and other personnal codes.
 
-You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) or [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-5965-3514) profiles.
+You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/blob/main/CV.pdf) and the list of my peer-reviewed [publications](https://github.com/HugoMrth/HugoMrth/blob/main/Publications.md) direclty on Github, or come and visit my [LinkedIn](https://www.linkedin.com/in/hugo-marthinet-b96aa4133/) or [ORCID](https://orcid.org/0009-0000-5965-3514) profiles.
 
 # My repos
 
