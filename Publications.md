@@ -15,14 +15,19 @@
 ## Oral Communications as a presenting author
 
   <sup>2\.</sup>     Marthinet H. et al. (2025) **_Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019._** 2025 ISPE Annual Meeting
+  
   <sup>1\.</sup>     Marthinet H. et al. (2025) **_Conséquences des pénuries de médicaments cardiovasculaires sur la prise en charge des patients atteints de maladie chronique en France entre 2014 et 2019._** EMOIS 2025
 
 ## All Oral Communications 
 
   <sup>5\.</sup>     Marthinet H. et al. (2026) **_Conséquences de la rupture d’approvisionnement de divalproate de sodium de 2016 sur la prise en charge des patients atteints de troubles psychiatriques chroniques en France._** EMOIS 2026
+  
   <sup>4\.</sup>     Havet A. et al. (2026) **_Comparaison de la mortalité et des complications après remplacement valvulaire aortique par voie percutanée ou chirurgicale entre 2010 et 2022 : une étude française à partir des données du SNDS._** EMOIS 2026
+  
   <sup>3\.</sup>     Pingault O. et al. (2025) **_Contraception chez les Adolescentes et Jeunes Adultes après traitement d’un cancer en France : une étude de cohorte comparative à partir des données du SNDS._** CNGOF
+  
   <sup>2\.</sup>     Marthinet H. et al. (2025) **_Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019._** 2025 ISPE Annual Meeting
+  
   <sup>1\.</sup>    Marthinet H. et al. (2025) **_Conséquences des pénuries de médicaments cardiovasculaires sur la prise en charge des patients atteints de maladie chronique en France entre 2014 et 2019._** EMOIS 2025
 
 ## Conference papers
