@@ -7,6 +7,14 @@
     
 # Conference communications
 
+#let rev-enum = enum.with(numbering: n => [#{items.len() + 1 - n}.])
+
+#rev-enum(
+  [Third place],
+  [Second place],
+  [First place]
+)
+
 ## Oral Communications as a presenting author
 
   2. Marthinet H. et al. (2025) **_Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019._** 2025 ISPE Annual Meeting
