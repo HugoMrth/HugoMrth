@@ -12,7 +12,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 
 * :man_technologist: [My Code](https://github.com/HugoMrth/my-code) : Statistical analysis workflows and R functions memos
 * :chart_with_upwards_trend: [Data Visualization Portfolio](https://hugomrth.github.io/dataVisualizationPortfolio/) : R Graph Gallery
-* :world_map: [Shiny Apps](https://github.com/HugoMrth/shinyTemplate), [R Packages](https://github.com/HugoMrth/pkgTemplate)  and [R Projects](https://github.com/HugoMrth/RporjTemplate) templates 
 
 ### :package: <ins>R Packages</ins> 
 
@@ -20,16 +19,6 @@ You can access both my [Curriculum Vitae](https://github.com/HugoMrth/HugoMrth/b
 |----------|----------|----------|----------|----------|----------|
 | <p align="center"> <img src="https://github.com/HugoMrth/dataDesc/blob/main/inst/logo.png" title="dataDesc"  alt="dataDesc" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/epiplus/blob/main/inst/logo.png" title="epiplus"  alt="epiplus" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/lazyMe/blob/main/inst/logo.png" title="lazyMe"  alt="lazyMe" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/sampleSize/blob/main/inst/logo.png" title="sampleSize"  alt="sampleSize" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/manageR/blob/main/inst/logo.png" title="manageR"  alt="manageR" width="65" height="65"/> </p> | <p align="center"> <img src="https://github.com/HugoMrth/surveyscores/blob/main/inst/logo.png" title="surveyscores"  alt="surveyscores" width="65" height="65"/> </p> |
 
-### :no_entry_sign: <ins>(Private) work repos</ins> 
-
-* :pill: [IMPULSE](https://github.com/HugoMrth/Impulse-SDS) team work repository
-* :file_folder: [SNDS projects](https://github.com/HugoMrth/SNDS-Projects) scripts backup
-* :dna: [MSProfileR](https://github.com/HugoMrth/MSProfileR) shiny app package 
-
-### :desktop_computer: <ins>Shiny Apps</ins> 
-
-* :open_book: [bookwoRm](https://github.com/HugoMrth/bookwoRm) : A book dashboard 
-* :hiking_boot: [hikeR](https://github.com/HugoMrth/hikeR) : An hike dashboard 
 
   
 <!--- 
