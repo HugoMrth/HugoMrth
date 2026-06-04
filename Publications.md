@@ -12,6 +12,10 @@
     
 # Conference communications
 
+My work have frequently been submitted to pharmacoepidemiology conferences and I've had the occasion to present it myself on some occasions.
+
+I've attended the EMOIS Congress in France (2023, 2024, 2025) and the ISPE Annual Meeting (2025 and 2026).
+
 ## Oral Communications as a presenting author
 
   <sup>2\.</sup>     Marthinet H. et al. (2025) **_Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019._** 2025 ISPE Annual Meeting
@@ -33,3 +37,5 @@
 ## Conference papers
 
   <sup>1\.</sup>     Chassery L., Pellegrin L., Marthinet H. (2023) **_Gestion de la crise Covid-19 : Analyse des liens entre les processus de résilience et de créativité mis en œuvre par les professionnels de santé._** EPIQUE 2023
+
+## Posters
