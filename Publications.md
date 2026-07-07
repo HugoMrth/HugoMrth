@@ -40,8 +40,8 @@ I've attended the EMOIS Congress in France (2023, 2024, 2025) and the ISPE Annua
 
 ## Posters
 
-  <sup>3\.</sup>     <ins>Marthinet H.</ins> et al. (2025) **_Impact of the 2016 sodium divalproate shortage on chronic disease patient care in France._** 2026 ISPE Annual Meeting  
+  <sup>3\.</sup>     <ins>Marthinet H.</ins> et al. (2026) **_Impact of the 2016 sodium divalproate shortage on chronic disease patient care in France._** 2026 ISPE Annual Meeting  
   
-  <sup>2\.</sup>     <ins>Marthinet H.</ins> et al. (2025) **_Medication Trajectories During the Year Following the Initiation of Medication Indicated for Alcohol Use Disorders._** 2026 ISPE Annual Meeting
+  <sup>2\.</sup>     <ins>Marthinet H.</ins> et al. (2026) **_Medication Trajectories During the Year Following the Initiation of Medication Indicated for Alcohol Use Disorders._** 2026 ISPE Annual Meeting
   
-  <sup>1\.</sup>     Rigoureau J. et al. (2025) **_Involving patients in pharmacoepidemiology studies conducted on large databases: results of a feasibility study in France._** 2026 ISPE Annual Meeting
+  <sup>1\.</sup>     Rigoureau J. et al. (2026) **_Involving patients in pharmacoepidemiology studies conducted on large databases: results of a feasibility study in France._** 2026 ISPE Annual Meeting
