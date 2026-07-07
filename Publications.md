@@ -39,3 +39,9 @@ I've attended the EMOIS Congress in France (2023, 2024, 2025) and the ISPE Annua
   <sup>1\.</sup>     Chassery L., Pellegrin L., <ins>Marthinet H.</ins> (2023) **_Gestion de la crise Covid-19 : Analyse des liens entre les processus de résilience et de créativité mis en œuvre par les professionnels de santé._** EPIQUE 2023
 
 ## Posters
+
+  <sup>3\.</sup>     <ins>Marthinet H.</ins> et al. (2025) **_Impact of the 2016 sodium divalproate shortage on chronic disease patient care in France._** 2026 ISPE Annual Meeting  
+  
+  <sup>2\.</sup>     <ins>Marthinet H.</ins> et al. (2025) **_Medication Trajectories During the Year Following the Initiation of Medication Indicated for Alcohol Use Disorders._** 2026 ISPE Annual Meeting
+  
+  <sup>1\.</sup>     Rigoureau J. et al. (2025) **_Involving patients in pharmacoepidemiology studies conducted on large databases: results of a feasibility study in France._** 2026 ISPE Annual Meeting
