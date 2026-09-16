@@ -1,6 +1,6 @@
 # Journal Articles
 
-<sup>7\.</sup>    <ins>Marthinet H.</ins>, Testud A. et al. (2026) **_Medication trajectories during the year following the initiation of medication indicated for alcohol use disorder._** Scientific report
+<sup>7\.</sup>    <ins>Marthinet H.</ins> & Testud A. et al. (2026) **_Medication trajectories during the year following the initiation of medication indicated for alcohol use disorder._** Scientific report
 
 <sup>6\.</sup>    Baltazard C. et al. (2025) **_Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study._** Injury. 2025 Nov 4:112878. https://doi.org/10.1016/j.injury.2025.112878
 
