@@ -16,10 +16,6 @@
     
 # Conference communications
 
-My work have frequently been submitted to pharmacoepidemiology conferences and I've had the occasion to present it myself on some occasions.
-
-I've attended the EMOIS Congress in France (2023, 2024, 2025) and the ISPE Annual Meeting (2025 and 2026).
-
 ## Oral Communications as a presenting author
 
   <sup>2\.</sup>     <ins>Marthinet H.</ins> et al. (2025) **_Impact of Cardiovascular Drug Shortages on Chronic Disease Patient Care in France between 2014 and 2019._** 2025 ISPE Annual Meeting
