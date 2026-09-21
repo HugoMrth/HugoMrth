@@ -1,20 +1,20 @@
 # Journal Articles
 
-<sup>8\.</sup>    <ins>Marthinet H.</ins> & Testud A. et al. (2026) **_Medication trajectories during the year following the initiation of medication indicated for alcohol use disorder._** Scientific report
+<sup>8\.</sup>    <ins>Marthinet H.</ins> & Testud A. et al. (2026) **_Medication trajectories during the year following the initiation of medication indicated for alcohol use disorder._** Scientific report. https://doi.org/10.1038/s41598-026-69381-x
 
-<sup>7\.</sup>    Angles B. et al. (2026) **_Access to liver transplantation for ACLF patients in a French center: initial trajectory matters._** Digestive and Liver Disease, 2026; 0. https://doi.org/10.1016/j.dld.2026.08.013
+<sup>7\.</sup>    Angles B. et al. (2026) **_Access to liver transplantation for ACLF patients in a French center: initial trajectory matters._** Digestive and Liver Disease. https://doi.org/10.1016/j.dld.2026.08.013
 
-<sup>6\.</sup>    Baltazard C. et al. (2025) **_Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study._** Injury. 2025 Nov 4:112878. https://doi.org/10.1016/j.injury.2025.112878
+<sup>6\.</sup>    Baltazard C. et al. (2025) **_Identifying the First Lethal Injury in Blunt Polytrauma Patients: Insights from a French Multicenter Cohort Study._** Injury. https://doi.org/10.1016/j.injury.2025.112878
 
-<sup>5\.</sup>    Sayer M., Dupouy A., <ins>Marthinet H.</ins> (2025). **_Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures. Etude par questionnaire auprès de 82 médecins au cours de l’opération Barkhane._** Médecine et Armées Vol.51 No.3. https://doi.org/10.17184/eac.9570
+<sup>5\.</sup>    Sayer M., Dupouy A., <ins>Marthinet H.</ins> (2025). **_Formation en soins critiques et préparation opérationnelle avant projection sur un poste d’évacuation aéromédicale en opérations extérieures. Etude par questionnaire auprès de 82 médecins au cours de l’opération Barkhane._** Médecine et Armées. https://doi.org/10.17184/eac.9570
 
-<sup>4\.</sup>    Imfeld C., Daurat, M., <ins>Marthinet H.</ins> (2025). **_Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane._** Médecine et Armées Vol.51 No.1. https://doi.org/10.17184/eac.9261
+<sup>4\.</sup>    Imfeld C., Daurat, M., <ins>Marthinet H.</ins> (2025). **_Etude descriptive des méthodes de gestion des menstruations des femmes militaires en opération extérieure à Gao. Opération Barkhane._** Médecine et Armées. https://doi.org/10.17184/eac.9261
 
-<sup>3\.</sup>    Chêne L. et al. (2024). **_Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France._** Emerging Microbes & Infections, 13(1). https://doi.org/10.1080/22221751.2024.2408324
+<sup>3\.</sup>    Chêne L. et al. (2024). **_Cutaneous diphtheria from 2018 to 2022: an observational, retrospective study of epidemiological, microbiological, clinical, and therapeutic characteristics in metropolitan France._** Emerging Microbes & Infections. https://doi.org/10.1080/22221751.2024.2408324
 
-<sup>2\.</sup>    Ben Hamouda R. et al. (2024). **_MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra._** Informatics, 11(2), 39. https://doi.org/10.3390/informatics11020039
+<sup>2\.</sup>    Ben Hamouda R. et al. (2024). **_MSProfileR: An Open-Source Software for Quality Control of Matrix-Assisted Laser Desorption Ionization–Time of Flight Spectra._** Informatics. https://doi.org/10.3390/informatics11020039
 
-<sup>1\.</sup>    Descatha A. et al. (2024). **_Développement de matrices emplois-expositions et validation : du concept à la pratique._** Pathologie professionnelle et de l'environnement, 1877-7856. https://doi.org/10.1016/S1877-7856(24)48940-X
+<sup>1\.</sup>    Descatha A. et al. (2024). **_Développement de matrices emplois-expositions et validation : du concept à la pratique._** Pathologie professionnelle et de l'environnement. https://doi.org/10.1016/S1877-7856(24)48940-X
     
 # Conference communications
 
