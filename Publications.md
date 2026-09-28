@@ -1,6 +1,6 @@
 # Journal Articles
 
-<sup>9\.</sup>    Gonnon AL et al. (2026) **_Increase in active caseload following the implementation of a centralized demand-management platform in child and adolescent public mental health services in a French metropolitan area._** Child and Adolescent Psychiatry and Mental Health. https://doi.org/10.1186/s13034-026-01173-7
+<sup>9\.</sup>    Gonnon L. et al. (2026) **_Increase in active caseload following the implementation of a centralized demand-management platform in child and adolescent public mental health services in a French metropolitan area._** Child and Adolescent Psychiatry and Mental Health. https://doi.org/10.1186/s13034-026-01173-7
 
 <sup>8\.</sup>    <ins>Marthinet H.</ins> & Testud A. et al. (2026) **_Medication trajectories during the year following the initiation of medication indicated for alcohol use disorder._** Scientific report. https://doi.org/10.1038/s41598-026-69381-x
 
